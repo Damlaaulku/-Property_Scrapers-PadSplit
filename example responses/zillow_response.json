@@ -1,0 +1,44 @@
+{
+    "success": true,
+    "status": 200,
+    "bundle": [
+        {
+            "id": "eb572c0d8545ea5efaeeb9f957853bac",
+            "city": "Houston",
+            "zpid": "27925520",
+            "state": "TX",
+            "address": "3122 Cromwell St Houston TX 77093",
+            "minus30": 150300,
+            "Latitude": 29.877582,
+            "Longitude": -95.33834,
+            "timestamp": "2021-11-20T08:00:00.000Z",
+            "zestimate": 169700,
+            "zillowUrl": "https://www.zillow.com/homes/27925520_zpid/",
+            "lowPercent": 5,
+            "postalCode": "77093",
+            "streetName": "Cromwell",
+            "unitNumber": null,
+            "unitPrefix": null,
+            "highPercent": 5,
+            "houseNumber": "3122",
+            "zipPlusFour": "2508",
+            "streetSuffix": "St",
+            "directionPrefix": null,
+            "directionSuffix": null,
+            "rentalTimestamp": "2021-10-29T07:00:00.000Z",
+            "rentalZestimate": 1394,
+            "rentalLowPercent": 7,
+            "rentalHighPercent": 8,
+            "houseNumberFraction": null,
+            "BridgeModificationTimestamp": "2021-11-24T02:47:00.520Z",
+            "Coordinates": [
+                -95.33834,
+                29.877582
+            ],
+            "forecastStandardDeviation": null,
+            "distanceFrom": 0.0037246843609173214,
+            "url": "api.bridgedataoutput.com/api/v2/zestimates_v2/zestimates/eb572c0d8545ea5efaeeb9f957853bac"
+        }
+    ],
+    "total": 261748
+}

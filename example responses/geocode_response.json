@@ -1,0 +1,106 @@
+[
+    {
+        "address_components": [
+            {
+                "long_name": "3122",
+                "short_name": "3122",
+                "types": [
+                    "street_number"
+                ]
+            },
+            {
+                "long_name": "Cromwell Street",
+                "short_name": "Cromwell St",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Greenwood Village",
+                "short_name": "Greenwood Village",
+                "types": [
+                    "neighborhood",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Houston",
+                "short_name": "Houston",
+                "types": [
+                    "locality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Harris County",
+                "short_name": "Harris County",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Texas",
+                "short_name": "TX",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "United States",
+                "short_name": "US",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "77093",
+                "short_name": "77093",
+                "types": [
+                    "postal_code"
+                ]
+            },
+            {
+                "long_name": "2508",
+                "short_name": "2508",
+                "types": [
+                    "postal_code_suffix"
+                ]
+            }
+        ],
+        "formatted_address": "3122 Cromwell St, Houston, TX 77093, USA",
+        "geometry": {
+            "bounds": {
+                "northeast": {
+                    "lat": 29.8777045,
+                    "lng": -95.3383054
+                },
+                "southwest": {
+                    "lat": 29.8775818,
+                    "lng": -95.33844649999999
+                }
+            },
+            "location": {
+                "lat": 29.87762919999999,
+                "lng": -95.33837
+            },
+            "location_type": "ROOFTOP",
+            "viewport": {
+                "northeast": {
+                    "lat": 29.8789921302915,
+                    "lng": -95.33702696970849
+                },
+                "southwest": {
+                    "lat": 29.8762941697085,
+                    "lng": -95.3397249302915
+                }
+            }
+        },
+        "place_id": "ChIJkegYhmW3QIYRBeeYKBP3yaw",
+        "types": [
+            "premise"
+        ]
+    }
+]
